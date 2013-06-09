@@ -1,0 +1,3 @@
+make sure to instantiate hardware with Pressure before Amps (because of the way it writes)???
+
+partsize is >= 50 for recipes
